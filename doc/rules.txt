@@ -1,0 +1,9 @@
+-----------------------------------------------------------------
+Rules
+-----------------------------------------------------------------
+* Players will take turns in moving one of their pieces. 
+* Pieces can only move within rows they occupied.
+* Pieces cannot move over other pieces.
+* The player who cannot make a move in his turn loses.
+-----------------------------------------------------------------
+
